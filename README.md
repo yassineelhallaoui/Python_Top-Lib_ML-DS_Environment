@@ -1,7 +1,7 @@
 # Python_Top-Lib_ML-DS_Environment
 Updated Libraries for best Machine Learning and Data Science practices
 
-## Python_Top-Lib_ML-DS_Environment: A curated list of libraries for best practices in ML & Data Science
+### Python_Top-Lib_ML-DS_Environment: A curated list of libraries for best practices in ML & Data Science
 
 This repository provides a **regulary updated** list of Python libraries for various Machine Learning (ML) and Data Science (DS) tasks, emphasizing **best practices** and **compatibility**. 
 
