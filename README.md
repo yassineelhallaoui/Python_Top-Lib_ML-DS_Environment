@@ -8,6 +8,8 @@ This repository provides a **regulary updated** list of Python libraries for var
 **Key features:**
 
 * **Comprehensive:** Covers libraries for a broad range of tasks, including:
+    * **Data Sceince**
+    * **Signal analysis**
     * **GPU acceleration**
     * **Geospatial analysis**
     * **Computer vision**
