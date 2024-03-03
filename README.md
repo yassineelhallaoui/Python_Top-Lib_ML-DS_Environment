@@ -19,7 +19,7 @@ This repository provides a **regulary updated** list of Python libraries for var
 * **Updated Requirements File:** The `DES310_GPU_**daymonthyear**.txt` file is **continuously updated** after rigorous **regression testing** and **incompatibility validation**. This ensures your projects use the latest stable and compatible versions.
 * **Community-driven:** We encourage contributions and discussions to keep the list relevant and accurate.
 
-**How to:**
+**How to: To have a successful setup of the environment and to ignore errors that can be caused by a file linked from another system.**
 
 * **For Linux :** use in Terminal use the file **linux_requirment_installer.bat** --> Command :
   ```sh linux_requirment_installer.bat name_of_the_requirment_file.txt```
