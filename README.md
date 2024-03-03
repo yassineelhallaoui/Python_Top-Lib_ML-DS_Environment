@@ -14,7 +14,7 @@ This repository provides a **regulary updated** list of Python libraries for var
     * **Natural Language Processing (NLP)**
     * **Large Language Models (LLMs)**
     * **And more!**
-* **Updated Requirements File:** The `requirements.txt` file is **continuously updated** after rigorous **regression testing** and **incompatibility validation**. This ensures your projects use the latest stable and compatible versions.
+* **Updated Requirements File:** The `DES310_GPU_**daymonthyear**.txt` file is **continuously updated** after rigorous **regression testing** and **incompatibility validation**. This ensures your projects use the latest stable and compatible versions.
 * **Community-driven:** We encourage contributions and discussions to keep the list relevant and accurate.
 
 **Why use this Resource?**
